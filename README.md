@@ -1,6 +1,11 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisjueon&show_icons=true&theme=radical)
 
+### 공부 중
+<img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Django-#092E20?style=for-the-badge&logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-#02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+
 <!--
 **thisisjueon/thisisjueon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
