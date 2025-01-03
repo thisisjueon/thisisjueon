@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisjueon&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thisisjueon)](https://solved.ac/thisisjueon/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisjueon&layout=compact)
 
 ### 공부 중
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/figma-092E20?style=for-the-badge&logo=figma&logoColor=white">
