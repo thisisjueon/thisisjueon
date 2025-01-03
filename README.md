@@ -1,6 +1,5 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisjueon&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thisisjueon)](https://solved.ac/thisisjueon/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisjueon&layout=compact)
 
 ### 공부 중
@@ -20,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thisisjueon)](https://solved.ac/thisisjueon/)
