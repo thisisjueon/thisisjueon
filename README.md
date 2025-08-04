@@ -3,8 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisjueon&layout=compact)
 
 ### 공부 중
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badgelogo=r&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)">
 <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff">
